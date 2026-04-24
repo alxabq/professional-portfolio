@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ca1935cc.css",
+    "main.js": "/static/js/main.5b142ed9.js",
+    "static/js/453.f8dbeeaf.chunk.js": "/static/js/453.f8dbeeaf.chunk.js",
+    "static/media/picko.jpg": "/static/media/picko.3a45d31c34d0c6e8b2e4.jpg",
+    "index.html": "/index.html",
+    "main.ca1935cc.css.map": "/static/css/main.ca1935cc.css.map",
+    "main.5b142ed9.js.map": "/static/js/main.5b142ed9.js.map",
+    "453.f8dbeeaf.chunk.js.map": "/static/js/453.f8dbeeaf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca1935cc.css",
+    "static/js/main.5b142ed9.js"
+  ]
+}
